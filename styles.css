@@ -1,0 +1,99 @@
+.firstcontentheading {
+  text-align: center;
+  font-size: 50px;
+  padding: 50px 0;
+}
+
+#secondcontent {
+  padding: 20px;
+}
+
+.hbody {
+  font-family: 'Pirata One', cursive;
+}
+
+.scrow {
+  padding-top: 20px;
+}
+
+.navbar-brand {
+  padding: 5px;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.himages:hover {
+  transform: scale(0.98);
+}
+
+#search-container {
+  padding: 20px 50px;
+  text-align: center;
+}
+
+#buttons {
+  padding: 0 50px;
+}
+
+.button-value {
+  padding: 0 20px;
+  margin: 0 5px 30px;
+  border-radius: 5px;
+  height: 30px;
+  color: #ff1493;
+  border: 0;
+}
+
+.button-value:hover {
+  background-color: #ff1493;
+  color: white;
+}
+
+.mcol {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.mrow {
+  padding: 10px 20px;
+}
+
+.ibody {
+  text-align: center;
+  font-family: 'Pirata One', cursive;
+}
+
+.rbody {
+  text-align: center;
+  font-family: 'Pirata One', cursive;
+}
+
+.lbody{
+  text-align: center;
+  font-family: 'Pirata One', cursive;
+}
+
+.icontent {
+  padding: 15%;
+}
+
+.rcontent {
+  padding: 15%;
+}
+
+.lcontent {
+  padding: 15%;
+}
+
+#footer {
+  padding: 5%;
+  background-color: grey;
+}
+
+#footer a {
+  color: white;
+  text-decoration: none;
+  padding: 1%;
+}
